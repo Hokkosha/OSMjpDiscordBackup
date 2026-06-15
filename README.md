@@ -1,0 +1,2 @@
+# OSMjpDiscordBackup
+OpenStreetMap JapanのDiscordサーバーの過去ログ試験中です。
